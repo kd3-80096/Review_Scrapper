@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ReviewScrapperDevesh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0062250B6234A3896B4D94BAFBB276A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6E861DF7AA1493283D552B657A2E2C4 }}
